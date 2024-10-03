@@ -78,9 +78,7 @@ Troubleshooting
 
 If you encounter any issues with the application, please check the console logs for errors.
 If you are unable to start the application, please ensure that you have installed the dependencies correctly.
-License
 
-This application is licensed under the MIT License.
 
 Contributing
 

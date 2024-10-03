@@ -30,7 +30,7 @@ Verify
 Open In Editor
 Edit
 Copy code
-git clone https://github.com/your-username/electricity-connection-management.git
+git clone https://github.com/shalwi26/EK24-Final-Assignment
 Navigate to the project directory:
 bash
 
@@ -39,7 +39,7 @@ Verify
 Open In Editor
 Edit
 Copy code
-cd electricity-connection-management
+cd EK24-Final-Assignment
 Install the dependencies using npm:
 bash
 

@@ -1,4 +1,5 @@
-# EK24-Final-Assignment
+# Electrica
+
 React training assignment
 # Electricity Connection Management System
 
